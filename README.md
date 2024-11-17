@@ -1,2 +1,5 @@
 # DataExpert.io-Data-Engineering-Bootcamp
-This boot camp will help you get the fundamentals needed to be a great data engineer!
+Free Data Engineering Boot camp from November 15 to December 31, 2024
+Instructor: Zach Wilson
+Website: https://bootcamp.techcreator.io/
+YouTube: https://www.youtube.com/@EcZachly_
